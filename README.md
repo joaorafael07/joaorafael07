@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript
 <div>
 <a href="https://github.com/joaorafael07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorafael07&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorafael07&layout=compact&theme=algolia"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaorafael07&show_icons=true&theme=algolia"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorafael07&layout=compact&theme=algolia"/>
 </div>
 
